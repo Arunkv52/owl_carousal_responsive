@@ -19,3 +19,5 @@ Above the code will add inside the <head></head> Section
 Above the code will add before the </body>
 
 
+If you once add above this, you can do drag the image or text left to right with responsive
+if you need see this https://arunkv52.github.io/owl_carousal_responsive/ pls click and check it.
